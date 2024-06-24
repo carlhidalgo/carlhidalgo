@@ -21,7 +21,7 @@
 - A passionate Self-taught developer
 - Playing League of legends at spare time
 - Currently learning Web Development by Self
-<!-- Personal website [link](https://www.0xabdulkhalid.ml)-->
+<!-- Personal website [link](https://)-->
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1NcwdvWGXBGKLsd-blAWoAvrboOaNbD-I/view?usp=sharing)
 
 <br><br>
@@ -147,12 +147,4 @@
 
 
 
-</div>
-<br>
-<br>
-<br>
-<br>
 
----
-
-<br>
